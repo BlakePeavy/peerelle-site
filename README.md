@@ -1,6 +1,6 @@
 # Peerelle website (peerelle.app)
 
-Static marketing and compliance site for **Peerelle** — local-first guided rental-vehicle photo capture for hosts and renters.
+Static marketing and compliance site for **Peerelle** - local-first guided rental-vehicle photo capture for hosts and renters.
 
 No build step. No framework. Open any `.html` file or serve the folder as static files.
 
@@ -24,8 +24,8 @@ No build step. No framework. Open any `.html` file or serve the folder as static
 1. Create a GitHub repository (e.g. `peerelle-site` or `peerelle.app`).
 2. Push this folder to the `main` branch (as the repo root, or into `/docs`).
 3. In the repo: **Settings → Pages**.
-   - **Source:** Deploy from a branch.
-   - **Branch:** `main`, folder **`/ (root)`** if these files are at the repo root, or **`/docs`** if you placed them under `docs/`.
+ - **Source:** Deploy from a branch.
+ - **Branch:** `main`, folder **`/ (root)`** if these files are at the repo root, or **`/docs`** if you placed them under `docs/`.
 4. After the first deploy, GitHub assigns a `*.github.io` URL. Custom domain steps below.
 
 Store URLs once live:
@@ -45,7 +45,7 @@ peerelle.app
 
 Pick one approach:
 
-**Apex (`peerelle.app`) — recommended A/AAAA records for GitHub Pages**
+**Apex (`peerelle.app`) - recommended A/AAAA records for GitHub Pages**
 
 Use GitHub’s current Pages IPs (confirm in [GitHub Docs: managing a custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)):
 

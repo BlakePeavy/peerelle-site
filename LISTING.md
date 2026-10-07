@@ -1,7 +1,7 @@
-# Peerelle — Store listing copy
+# Peerelle - Store listing copy
 
-Brand: **Peerelle** · Package: `app.peerelle.host`  
-Tone: hosts and renters; guided matching photos; on-device privacy.  
+Brand: **Peerelle** · Package: `app.peerelle.host` 
+Tone: hosts and renters; guided matching photos; on-device privacy. 
 **Do not claim:** cloud backup/sync, insurance, legal proof, AI/damage detection, or affiliation with Turo, Getaround, or any insurer. Omit features not in the shipping build.
 
 ---
@@ -11,7 +11,7 @@ Tone: hosts and renters; guided matching photos; on-device privacy.
 ### Title (≤ 30 chars)
 `Peerelle: Rental Car Photos`
 
-(Fallback if taken: `Peerelle – Trip Photo Check`)
+(Fallback if taken: `Peerelle - Trip Photo Check`)
 
 ### Short description (≤ 80 chars)
 ```
@@ -22,14 +22,14 @@ Guided, matching car photos for rental hosts & renters. Stays on your phone.
 
 ### Full description (≤ 4,000 chars)
 ```
-Peerelle helps car-rental hosts and renters take clear, consistent photos at check-in and check-out — so both sides can see the same angles, side by side.
+Peerelle helps car-rental hosts and renters take clear, consistent photos at check-in and check-out - so both sides can see the same angles, side by side.
 
 Whether you host on a peer-to-peer platform or rent privately, a quick, organized photo record makes handoffs smoother and conversations about the car's condition easier.
 
 HOW IT WORKS
 • Start a New Trip for any vehicle.
 • Check in: Peerelle walks you through each angle with an on-screen guide so you can line up the shot.
-• Follow the checklist so no angle gets missed — front, rear, sides, wheels, interior, odometer and more.
+• Follow the checklist so no angle gets missed - front, rear, sides, wheels, interior, odometer and more.
 • Check out: retake the same angles using the guide, lined up to match the originals.
 • Compare: view check-in and check-out photos side by side, angle by angle.
 
@@ -46,7 +46,7 @@ PRIVATE BY DESIGN
 VEHICLES
 • Save the vehicles you host or drive and keep each trip organized by car.
 
-Please note: Peerelle is an independent tool and is not affiliated with, endorsed by, or sponsored by Turo or any rental platform or insurer. Peerelle does not provide insurance or legal advice and does not decide claims. Because data is stored on your device, deleting the app or losing your phone may delete your photos — export or share anything you need to keep.
+Please note: Peerelle is an independent tool and is not affiliated with, endorsed by, or sponsored by Turo or any rental platform or insurer. Peerelle does not provide insurance or legal advice and does not decide claims. Because data is stored on your device, deleting the app or losing your phone may delete your photos - export or share anything you need to keep.
 ```
 
 > Before submit: remove any bullet the 1.0 build does not ship. Confirm checklist angle names match the app.
@@ -67,7 +67,7 @@ Please note: Peerelle is an independent tool and is not affiliated with, endorse
 ### Name (≤ 30 chars)
 `Peerelle: Rental Car Photos`
 
-(Fallback: `Peerelle – Trip Photo Check`)
+(Fallback: `Peerelle - Trip Photo Check`)
 
 ### Subtitle (≤ 30 chars)
 ```
@@ -78,21 +78,21 @@ Matching rental car photos
 
 ### Promotional text (≤ 170 chars; editable without review)
 ```
-Line up check-in and check-out photos angle by angle, then compare side by side. No account, no tracking — your trip photos stay on your iPhone.
+Line up check-in and check-out photos angle by angle, then compare side by side. No account, no tracking - your trip photos stay on your iPhone.
 ```
 
 ### Description (≤ 4,000 chars)
 Reuse the Play full description above, preferring “iPhone” / “device” where it reads naturally. Do not mention Android in the Apple listing.
 
 ```
-Peerelle helps car-rental hosts and renters take clear, consistent photos at check-in and check-out — so both sides can see the same angles, side by side.
+Peerelle helps car-rental hosts and renters take clear, consistent photos at check-in and check-out - so both sides can see the same angles, side by side.
 
 Whether you host on a peer-to-peer platform or rent privately, a quick, organized photo record makes handoffs smoother and conversations about the car's condition easier.
 
 HOW IT WORKS
 • Start a New Trip for any vehicle.
 • Check in: Peerelle walks you through each angle with an on-screen guide so you can line up the shot.
-• Follow the checklist so no angle gets missed — front, rear, sides, wheels, interior, odometer and more.
+• Follow the checklist so no angle gets missed - front, rear, sides, wheels, interior, odometer and more.
 • Check out: retake the same angles using the guide, lined up to match the originals.
 • Compare: view check-in and check-out photos side by side, angle by angle.
 
@@ -109,7 +109,7 @@ PRIVATE BY DESIGN
 VEHICLES
 • Save the vehicles you host or drive and keep each trip organized by car.
 
-Please note: Peerelle is an independent tool and is not affiliated with, endorsed by, or sponsored by Turo or any rental platform or insurer. Peerelle does not provide insurance or legal advice and does not decide claims. Because data is stored on your device, deleting the app or losing your iPhone may delete your photos — export or share anything you need to keep.
+Please note: Peerelle is an independent tool and is not affiliated with, endorsed by, or sponsored by Turo or any rental platform or insurer. Peerelle does not provide insurance or legal advice and does not decide claims. Because data is stored on your device, deleting the app or losing your iPhone may delete your photos - export or share anything you need to keep.
 ```
 
 ### Keywords (≤ 100 chars, comma-separated, no spaces after commas)
