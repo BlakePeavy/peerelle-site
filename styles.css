@@ -1,4 +1,8 @@
-/* Peerelle shared styles (no build step) */
+/* Peerelle shared styles. Inlined into each page by tools/inline-css.py */
+/* Andika, self-hosted latin subset */
+@font-face{font-family:"Andika";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/andika-400.woff2) format("woff2")}
+@font-face{font-family:"Andika";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/andika-700.woff2) format("woff2")}
+@font-face{font-family:"Andika";font-style:italic;font-weight:400;font-display:swap;src:url(fonts/andika-400i.woff2) format("woff2")}
 :root {
   --teal: #0D9488;
   --teal-dark: #0F766E;
@@ -248,8 +252,7 @@ h3 {
 }
 
 .store-badge--play img {
-  height: 58px;
-  margin: -9px -12px;
+  height: 40px;
 }
 
 .store-badge.is-pending {

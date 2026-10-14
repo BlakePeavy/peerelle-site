@@ -13,7 +13,7 @@ No build step. No framework. Open any `.html` file or serve the folder as static
 | `support.html` | Support + FAQ (store URL) |
 | `terms.html` | Terms of Use |
 | `404.html` | Custom not-found page |
-| `styles.css` | Shared styles |
+| `styles.css` | Shared styles (source; run `python3 tools/inline-css.py` to inline into pages) |
 | `favicon.svg` | Teal lens mark |
 | `CNAME` | Custom domain `peerelle.app` |
 | `robots.txt` | Allow crawlers |
