@@ -1,0 +1,14 @@
+{
+  "name": "Peerelle",
+  "short_name": "Peerelle",
+  "description": "Guided rental car photos, kept on your phone.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F7F5F0",
+  "theme_color": "#0D9488",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
